@@ -1,7 +1,7 @@
 # TPSymfony
 
 Pour lancer le symfony :
-    symfony server.start
+    symfony server:start
 
 Pour vider le cache :
     php bin/console cache:clear
