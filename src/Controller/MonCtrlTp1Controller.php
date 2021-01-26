@@ -16,7 +16,7 @@ class MonCtrlTp1Controller extends AbstractController
         return $this->render('mon_ctrl_tp1/index.html.twig', [
             'TP_name' => 'TP Symfony',
             'tab' => $tableau,
-        ]);
+        ]); 
     }
 
     /**
